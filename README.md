@@ -5,4 +5,4 @@ This is the package for method developed according to the paper. The required pa
 ## fdr_emp.py
 This is the package developed for emprical FDR method. The required parameter at class initialization is z value. Running the fit method will calibrate the model. lfdr can be calculated by calling the corresponding function. 
 ## fdr_project.py
-This script runs the analysis for the report, including generating each figure. It utilizes classes from dr_bayes.py and fdr_emp.py for the necessary calculations.
+This script runs the analysis for the report, including generating each figure. It utilizes classes from fdr_bayes.py and fdr_emp.py for the necessary calculations.
